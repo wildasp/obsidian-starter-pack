@@ -1,0 +1,18 @@
+# Obsidian workspace & cache (setting lokal, tidak perlu di-commit)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+# Jika ingin ikut commit setting plugin & tema (opsional, hapus baris di atas jika ya)
+# .obsidian/ dibiarkan ter-track supaya orang yang clone dapat plugin config yang sama
